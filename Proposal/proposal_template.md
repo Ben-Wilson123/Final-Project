@@ -1,4 +1,4 @@
-# Final Project Proposal Template
+# Final Project Proposal - Benjamin Wilson
 
 **Due: October 7. Must be approved by the instructor before full-scale work begins.**
 Length: ~1 page (plus references if needed). Submit as a single team, not per-member.
