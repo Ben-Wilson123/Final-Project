@@ -14,7 +14,7 @@ Dataset
 
 **Project type:** RNA-Seq Pipeline with R using GEOquery, DESeq2, and tidyverse
 
-## 1. Problem statement (2–4 sentences)
+## 1. Problem statement
 
 This workflow will address Alzheimer's Disease, a neurodegenerative disorder
 responsible for 60%-80% of dementia cases in the United States (source: CDC). 
